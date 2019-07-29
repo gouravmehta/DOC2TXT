@@ -1,4 +1,6 @@
 # DOC2TXT
+This class can convert MS Word Docx files to text. It can extract the files from compressed Microsoft Word file in docx format. The class can parse the document XML file and extract the text that it contains.
+
 DocX is a format used by the latest versions of Microsoft Word to save a document to a file.
 
 Rendering a Microsoft Word file as it is presented in the program is not an easy task.
